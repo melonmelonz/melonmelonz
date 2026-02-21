@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png" width="80" />
   <br />
-  hey, i am melon
+  hi, i am melon
 </h1>
 
 <p align="center">
