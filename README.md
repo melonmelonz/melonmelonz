@@ -58,11 +58,11 @@
 | Project | Description |
 |---------|-------------|
 | [**monero-multisig**](https://github.com/melonmelonz/monero-multisig) | Monero M-of-N multisig wallet CLI tool in Rust |
-| [**CSS-Cursors**](https://github.com/melonmelonz/CSS-Cursors) | Preview & copy CSS cursor properties |
-| [**Flexbox-Labs**](https://github.com/melonmelonz/Flexbox-Labs) | Flexible layout creation tool |
-| [**CSS-Flexbox-Tool**](https://github.com/melonmelonz/CSS-Flexbox-Tool) | Layout builder using CSS Flexbox |
-| [**Glyphs**](https://github.com/melonmelonz/Glyphs) | Special character copy utility |
-| [**Event-KeyCodes**](https://github.com/melonmelonz/Event-KeyCodes) | JavaScript keyboard event keycodes |
+| [**css-cursors**](https://github.com/melonmelonz/CSS-Cursors) | Preview & copy CSS cursor properties |
+| [**flexbox-labs**](https://github.com/melonmelonz/Flexbox-Labs) | Flexible layout creation tool |
+| [**css-flexbox-tool**](https://github.com/melonmelonz/CSS-Flexbox-Tool) | Layout builder using CSS Flexbox |
+| [**glyphs**](https://github.com/melonmelonz/Glyphs) | Special character copy utility |
+| [**event-keycodes**](https://github.com/melonmelonz/Event-KeyCodes) | JavaScript keyboard event keycodes |
 
 ---
 
