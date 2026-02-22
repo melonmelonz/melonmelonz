@@ -17,7 +17,7 @@
 ### 🏆 trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=melonmelonz&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-trophies.vercel.app/?username=melonmelonz&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
