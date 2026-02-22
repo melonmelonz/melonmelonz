@@ -25,11 +25,6 @@
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=melonmelonz&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&bg_color=F0FFF0&title_color=4CAF50&icon_color=81C784&text_color=555" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melonmelonz&layout=compact&langs_count=10&include_all_commits=true&count_private=true&theme=vue&hide_border=true&bg_color=F0FFF0&title_color=4CAF50&text_color=555" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=melonmelonz&theme=vue&hide_border=true&background=F0FFF0&ring=81C784&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50" />
 </p>
 
