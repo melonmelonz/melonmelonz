@@ -4,12 +4,6 @@
   hi, i am melon
 </h1>
 
-<p align="center">
-  <a href="https://github.com/melonmelonz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=full+stack+engineer;foss+advocate;linux+lover;i+use+gentoo%2C+btw" alt="Typing SVG" />
-  </a>
-</p>
-
 ### 🧰 stack
 
 <p align="center">
