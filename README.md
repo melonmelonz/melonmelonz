@@ -47,11 +47,9 @@
 | Project | Description |
 |---------|-------------|
 | [**monero-multisig**](https://github.com/melonmelonz/monero-multisig) | Monero M-of-N multisig wallet CLI tool in Rust |
-| [**css-cursors**](https://github.com/melonmelonz/CSS-Cursors) | Preview & copy CSS cursor properties |
-| [**flexbox-labs**](https://github.com/melonmelonz/Flexbox-Labs) | Flexible layout creation tool |
-| [**css-flexbox-tool**](https://github.com/melonmelonz/CSS-Flexbox-Tool) | Layout builder using CSS Flexbox |
-| [**glyphs**](https://github.com/melonmelonz/Glyphs) | Special character copy utility |
-| [**event-keycodes**](https://github.com/melonmelonz/Event-KeyCodes) | JavaScript keyboard event keycodes |
+| [**portfolio**](https://github.com/melonmelonz/portfolio) | Personal portfolio — Penn Cameron Porterfield |
+| [**melonmelonz**](https://github.com/melonmelonz/melonmelonz) | GitHub profile |
+| [**melonmelonz.github.io**](https://github.com/melonmelonz/melonmelonz.github.io) | Windows 95 styled general knowledge quiz |
 
 ---
 
