@@ -35,11 +35,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/melonmelonz/melonmelonz/output/github-snake-dark.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melonmelonz&theme=vue&hide_border=true&bg_color=F0FFF0&color=4CAF50&line=81C784&point=4CAF50&area=true&area_color=C8E6C9" />
-</p>
-
 ---
 
 ### 🌸 featured projects
