@@ -49,7 +49,7 @@
 | [**monero-multisig**](https://github.com/melonmelonz/monero-multisig) | Monero M-of-N multisig wallet CLI tool in Rust |
 | [**portfolio**](https://github.com/melonmelonz/portfolio) | Personal portfolio — Penn Cameron Porterfield |
 | [**melonmelonz**](https://github.com/melonmelonz/melonmelonz) | GitHub profile |
-| [**melonmelonz.github.io**](https://github.com/melonmelonz/melonmelonz.github.io) | Windows 95 styled general knowledge quiz |
+| [**melonmelonz.github.io**](https://github.com/melonmelonz/nextchapter) | Windows 95 styled general knowledge quiz |
 
 ---
 
