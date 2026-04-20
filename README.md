@@ -14,34 +14,6 @@
 
 ---
 
-### 🏆 trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=melonmelonz&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
-### 📊 stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=melonmelonz&theme=vue&hide_border=true&background=F0FFF0&ring=81C784&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50" />
-</p>
-
----
-
-### 🌿 activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melonmelonz/melonmelonz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melonmelonz/melonmelonz/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/melonmelonz/melonmelonz/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ### 🌸 featured projects
 
 | Project | Description |
