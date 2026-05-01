@@ -18,7 +18,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🚀 [**treetz**](https://github.com/melonmelonz/treetz-site) | Space loot game — originally built in 2018, now being fully rebooted in Unreal Engine 5. |
+| [**treetz**](https://github.com/melonmelonz/treetz-site) | Space loot game — originally built in 2018, now being fully rebooted in Unreal Engine 5. |
 | [**monero-multisig**](https://github.com/melonmelonz/monero-multisig) | Monero M-of-N multisig wallet CLI tool in Rust |
 | [**portfolio**](https://github.com/melonmelonz/portfolio) | Personal portfolio — Penn Cameron Porterfield |
 | [**melonmelonz**](https://github.com/melonmelonz/melonmelonz) | GitHub profile |
