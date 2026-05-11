@@ -4,16 +4,6 @@
   hi, i am melon
 </h1>
 
-### 🧰 stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,rust,php,laravel,tailwind&theme=light" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,scss,linux,aws,gcp,azure,docker,kubernetes&theme=light" />
-</p>
-
----
-
 ### 🌸 featured projects
 
 | Project | Description |
